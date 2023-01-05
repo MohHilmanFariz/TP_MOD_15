@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1672591067 source:d:\00. tel-u\0.1 perkuliahan\1.pembelajaran\semester 3\praktikum std\cpp\tp mod 15\main.cpp
+	"tree.h"
+	<iostream>
+
+1672590038 source:d:\00. tel-u\0.1 perkuliahan\1.pembelajaran\semester 3\praktikum std\cpp\tp mod 15\tree.cpp
+	"tree.h"
+
+1672589183 d:\00. tel-u\0.1 perkuliahan\1.pembelajaran\semester 3\praktikum std\cpp\tp mod 15\tree.h
+	<iostream>
+
